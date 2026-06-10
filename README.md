@@ -270,9 +270,9 @@ This is **not** presented as a finished Simscape simulation. It is kept as an in
 ## Hardware and Assembly Media
 
 <p align="center">
-  <img src="public/images/projects/robotic-arm-control/Assembly%20Setup.png" alt="Assembly setup" width="430">
-  &nbsp;
   <img src="public/images/projects/robotic-arm-control/Assembly%20Components.jpg" alt="Assembly components" width="430">
+  &nbsp;
+  <img src="public/images/projects/robotic-arm-control/Assembly%20Setup.png" alt="Assembly setup" width="430">
 </p>
 
 <p align="center">
