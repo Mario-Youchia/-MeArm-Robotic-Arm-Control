@@ -1,4 +1,4 @@
-# MeArm Robotic Arm
+# MeArm Robotic Arm Control
 
 A 3-DOF MeArm-style robotic arm with a servo-actuated gripper, developed as part of an embedded-systems and robotics internship project. The project combines Arduino-based servo control, inverse/forward kinematics, physical prototype testing, CAD motion demonstrations, and a CAD-to-Simscape Multibody export package.
 
