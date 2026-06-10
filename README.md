@@ -324,7 +324,7 @@ The library headers state that it is distributed under the GNU Lesser General Pu
 
 The internship report is hosted externally on Google Drive:
 
-[View internship report](REPORT_GOOGLE_DRIVE_LINK)
+[View internship report](https://drive.google.com/file/d/1N2jgzvmauV8Ic5TUkYzIh1V3nWVkhGx2/view?usp=sharing)
 
 Replace `https://drive.google.com/file/d/1N2jgzvmauV8Ic5TUkYzIh1V3nWVkhGx2/view?usp=sharing` with the final public or shareable Google Drive URL before publishing the repository.
 
