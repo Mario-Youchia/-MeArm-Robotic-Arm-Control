@@ -11,7 +11,7 @@ A 3-DOF MeArm-style robotic arm with a servo-actuated gripper, developed as part
 <p align="center">
   <a href="https://grabcad.com/library/mearm-robotic-arm-1"><b>View CAD model on GrabCAD</b></a>
   &nbsp;•&nbsp;
-  <a href="REPORT_GOOGLE_DRIVE_LINK"><b>View internship report</b></a>
+  <a href="https://drive.google.com/file/d/1N2jgzvmauV8Ic5TUkYzIh1V3nWVkhGx2/view?usp=sharing"><b>View internship report</b></a>
   &nbsp;•&nbsp;
   <a href="https://github.com/Mario-Youchia/Arduino-Four-Servo-Controller"><b>Related servo-controller project</b></a>
 </p>
